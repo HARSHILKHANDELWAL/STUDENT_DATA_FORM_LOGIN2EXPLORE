@@ -25,10 +25,12 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 **SCREENSHOTS**
 
+![image](https://github.com/HARSHILKHANDELWAL/STUDENT_DATA_FORM_LOGIN2EXPLORE/assets/53622598/2e74efb3-2dcf-4735-8d18-b744dca6d003)
 
-![image](https://github.com/HARSHILKHANDELWAL/STUDENT_DATA_FORM_LOGIN2EXPLORE/assets/53622598/001d06ee-4b0f-4f22-81ac-629ac98b4a92)
+
 
 ![image](https://github.com/HARSHILKHANDELWAL/STUDENT_DATA_FORM_LOGIN2EXPLORE/assets/53622598/9306a0d6-0a47-4d53-9081-df404c141dd1)
+![image](https://github.com/HARSHILKHANDELWAL/STUDENT_DATA_FORM_LOGIN2EXPLORE/assets/53622598/c28fc58f-9235-4cc3-89b3-0734ae2c997e)
 
 
 ![image](https://github.com/HARSHILKHANDELWAL/STUDENT_DATA_FORM_LOGIN2EXPLORE/assets/53622598/196044e3-9e32-4233-9dfe-7720e877dd62)
@@ -38,7 +40,6 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 
 ![image](https://github.com/HARSHILKHANDELWAL/STUDENT_DATA_FORM_LOGIN2EXPLORE/assets/53622598/44d199e5-3f26-444c-a232-93302e09388e)
-
 
 
 
